@@ -1,0 +1,2 @@
+# cmd
+misc unix commands
